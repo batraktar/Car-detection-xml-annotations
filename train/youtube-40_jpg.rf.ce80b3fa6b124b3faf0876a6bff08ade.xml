@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>youtube-40_jpg.rf.ce80b3fa6b124b3faf0876a6bff08ade.jpg</filename>
+	<path>youtube-40_jpg.rf.ce80b3fa6b124b3faf0876a6bff08ade.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>355</xmax>
+			<ymin>311</ymin>
+			<ymax>350</ymax>
+		</bndbox>
+	</object>
+</annotation>
